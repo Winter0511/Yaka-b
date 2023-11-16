@@ -3,13 +3,13 @@
     <img src="https://media.tenor.com/7IKhVM983G8AAAAC/nom-nom-death-note.gif">
   </a>
 
-<h1 align="center"> Y A K A <sup>BOT
+<h1 align="center"> WinterYT<sup>BoT
 </h1>
 
 <p align="center"> 
     <b>Greetings traveller... <br>
         I am <br>
-    Y A K A <sup>B O T</sup> <br>
+    Winter <sup>B O T</sup> <br>
         <h1 align="center">An "Anime whatsapp bot" with more <b>Features, Stability</b> and <b>Compatibility</b>.</h1>
 <br>
 <br>
@@ -39,7 +39,7 @@
 <br>
 <br>
         
-<h2 align="center">👽 Y A K A <sup>B O T</sup> Platform Compatibility 👽 
+<h2 align="center">👽 Winter <sup>B O T</sup> Platform Compatibility 👽 
 
 </h2> 
 
@@ -91,24 +91,6 @@
 - User Banning / Group Banning.
 - Highest Security compared to most other public bots.
         
-<br>
-<br>
-<br>
-
-<h2 align="center">🔥 Why Should You Use Yaka bot ? 🔥
-</h2>
-
-<br>
-
-- Yaka is a `multi character bot` which means you can `change bot's character` to any of the 23 added characters or add more characters by yourself.
-- Yaka is a `multi mode` bot which means you can use it in `Self / Public / Private` mode.
-- Yaka has a pre installed chatbot which means you can use it as a `group chatbot and dm chatbot`.
-- Yaka has `300+` commands.
-- Yaka doesn't store your `Session File` locally which means it's `safe` and `secure`.
-- Yaka has `RPG Bot` and `Casino Bot`.
-- Yaka is a Folder Type bot which represents `Highest Stability`, `Highest Performance` and `User friendly`.
-- You can use it as a `base for your own bot` and can `modify it as you want` and can `add your own features`.
-  
 <br>
 <br>
 <br>
